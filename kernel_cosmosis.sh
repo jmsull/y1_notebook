@@ -5,7 +5,6 @@
 #cosmosis_dir=${cosmosis_dir%/config}
 #export COSMOSIS_SRC_DIR="$cosmosis_dir"
 source activate cosmosis-nb-y1
-export COSMOSIS_SRC_DIR="/global/cscratch1/sd/jsull/testing/edited_y1_notebook/cosmosis"
 #export COSMOSIS_SRC_DIR="/global/homes/j/jsull/code/cosmosis"
 export COSMOSIS_OMP=1
 #export OMP_NUM_THREADS=16

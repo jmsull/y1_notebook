@@ -1,6 +1,5 @@
 {
  "argv": [
-"/global/cscratch1/sd/jsull/testing/edited_y1_notebook/kernel_cosmosis.sh",
   "-f",
   "{connection_file}"
  ],
